@@ -1,6 +1,6 @@
-###    (PRACTICA js GAME one oracle),  INGRESA AL LINK DE LA PARTE DE ABAJO PARA OBSERVAR 
+###    (PRACTICA js GAME2 one oracle),  INGRESA AL LINK DE LA PARTE DE ABAJO PARA OBSERVAR 
 
-[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/Adivina_un_numeroGAME/)
+[ CLICK AQUI PARA VISUALIZAR ](https://breinnerbenitez.github.io/Juego_NumeroSecretoversion2/)
 
 ___
 
