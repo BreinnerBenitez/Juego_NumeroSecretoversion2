@@ -5,7 +5,7 @@
  let numeroMaximo=100;
  let numeroSecreto = generarNumeroSecreto();
 
- //console.log(numeroSecreto);
+ console.log(numeroSecreto);
 function asignarTextoElemento(elemento,texto){
 
     let elementoHtmlTitulo =document.querySelector(elemento);
