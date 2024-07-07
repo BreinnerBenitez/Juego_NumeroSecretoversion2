@@ -74,7 +74,7 @@ function mensajesIniciales(){
 asignarTextoElemento("h1","Juego del nuemero Secreto!");
 asignarTextoElemento("p","Indica un numero del 1-100");
 numeroSecreto = generarNumeroSecreto();
-console.log(numeroSecreto);
+//console.log(numeroSecreto);
 intentos=1;
 }
 function reiniciarJuego(){
